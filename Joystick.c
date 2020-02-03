@@ -53,13 +53,13 @@ static const command step[] = {
 
 	{ LEFT,      30 },
 	{ NOTHING,   360 },
-	{ LEFT,      190 },
+	{ LEFT,      160 },
 	{ NOTHING,   20 },
-	{ RIGHT,     190 },
+	{ RIGHT,     160 },
 	{ NOTHING,   20 },
-	{ LEFT,      190 },
+	{ LEFT,      160 },
 	{ NOTHING,   20 },
-	{ RIGHT,     230 },
+	{ RIGHT,     200 },
 	{ NOTHING,   400 } // Saving, intermission
 };
 
